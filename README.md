@@ -1,2 +1,2 @@
-# ICP
-A leave application and management system
+# Abstract
+This project presents the design and implementation of a leave application and management system using the C programming language. The system digitalizes the traditional leave process by enabling staff to apply for leave, approvers to handle requests, and administrators to manage user records and generate reports. Key features include user authentication, leave validation, file handling, category-based access, and real-time updates. Through this assignment, the developer gained practical experience in C programming concepts such as structures, file I/O, arrays, and function modularity, contributing to the creation of a functional and user-friendly administrative tool.
